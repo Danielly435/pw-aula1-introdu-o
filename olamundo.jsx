@@ -6,8 +6,8 @@ exportação  padrão  ( )  =>  {
     return  (
         < >
 
-        < h2 > Componente OlaMundo < / h2 >
-        < p >  {  informacao  }  < / p >
-        < / >
+        <h2> Componente OlaMundo </h2>
+        <p>  {  informacao  }  </p>
+        </>
     )
 }
