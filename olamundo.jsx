@@ -1,5 +1,4 @@
-importar  React  de  'react'
-
+import React from 'react'
 exportação  padrão  ( )  =>  {
     
     const  informacao  =  'Primeiro componente JSX'
