@@ -5,8 +5,8 @@ import React from 'react';
 	return (
 
 		<div>
-			<h3>{props.nome}{props.sobrenome}</h3>
-			<h3>{props.idade}</h3>
+			<h3>Nome: {props.nome} {props.sobrenome}</h3>
+			<h3>Idade: {props.idade}</h3>
 			</div>
 		)
 }
