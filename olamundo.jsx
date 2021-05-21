@@ -1,13 +1,13 @@
 import React from 'react'
-exportação  padrão  ( )  =>  {
-    
+
+function OlaMundo(){    
     const  informacao  =  'Primeiro componente JSX'
-
-    return  (
-        < >
-
+     return (
+        <div>
         <h2> Componente OlaMundo </h2>
         <p>  {  informacao  }  </p>
-        </>
+        </div>
     )
 }
+
+export default OlaMundo
